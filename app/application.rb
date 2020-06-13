@@ -22,6 +22,7 @@ class Application
       else 
         return "Item not found"
         resp.status = 400
+      end 
       
     end 
      
